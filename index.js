@@ -7,4 +7,6 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(height === 73 ? console.log("Error") : console.log(height)
+console.log(height === 73 ? console.log("Error") : console.log(height) )
+
+
